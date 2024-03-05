@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Opinion - Tag - Tech, Trends and Trivia</title>
+        <link>http://example.org/en/tags/opinion/</link>
+        <description>Opinion - Tag - Tech, Trends and Trivia</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@svenroesser.de (Sven Rösser)</managingEditor>
+            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="http://example.org/en/tags/opinion/" rel="self" type="application/rss+xml" /><item>
+    <title>:earth_asia: Hello World! My First Dive into Blogging</title>
+    <link>http://example.org/en/posts/hello_world/</link>
+    <pubDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</pubDate>
+    <author>Sven Rösser</author>
+    <guid>http://example.org/en/posts/hello_world/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/banner/hello_world_en.png" referrerpolicy="no-referrer">
+            </div>WTF - A Blog? The digital (entertainment) world is overflowing with exciting content these days. In light of this fact, it may initially seem unusual to start your own blog. On the internet, you inevitably stumble upon TikTok challenges, viral short videos, and complex algorithms that only show you what aligns with your personal preferences and opinions. Their goal is well-defined: maximize user engagement and retention through clever strategies and psychological tricks to maximize revenue.]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Tech, Trends und Trivia</title>
+        <link>http://example.org/tags/</link>
+        <description>Tags - Tag - Tech, Trends und Trivia</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>hi@svenroesser.de (Sven Rösser)</managingEditor>
+            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Meinung</title>
+    <link>http://example.org/tags/meinung/</link>
+    <pubDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</pubDate>
+    <author>Sven Rösser</author>
+    <guid>http://example.org/tags/meinung/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Persönlich</title>
+    <link>http://example.org/tags/pers%C3%B6nlich/</link>
+    <pubDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</pubDate>
+    <author>Sven Rösser</author>
+    <guid>http://example.org/tags/pers%C3%B6nlich/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

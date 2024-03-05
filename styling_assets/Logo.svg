@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="svg2" width="1000" height="666.66669" viewBox="335.448 107.315 244.589 275.433" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs6">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath94">
+      <path d="M 0,500 H 750 V 0 H 0 Z" id="path92"/>
+    </clipPath>
+  </defs>
+  <g id="g88" transform="matrix(1.772783, 0, 0, -1.772783, -625.096069, 917.259949)" style="">
+    <g id="g90" clip-path="url(#clipPath94)" style="">
+      <g id="g96" transform="translate(660.7381,388.6092)" style="">
+        <path d="M 0,0 -23.935,23.934 -29.719,29.719 -50.268,50.268 -100.535,0 h -17.163 v -17.163 l 41.097,-41.097 5.786,-5.784 20.547,-20.549 67.431,67.43 0,17.163 z" style="fill: rgb(71, 68, 75); fill-opacity: 1; fill-rule: nonzero; stroke: none;" id="path98"/>
+      </g>
+      <g id="g100" transform="translate(548.825,388.6092)" style="">
+        <path d="M 0,0 20.548,-20.549 41.097,-41.098 72.795,-9.399 52.246,11.149 82.194,41.097 61.646,61.646 Z" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(61, 146, 236);" id="path102"/>
+      </g>
+      <g id="g104" transform="translate(601.0711,399.7581)" style="">
+        <path d="M 0,0 20.549,-20.548 -11.149,-52.247 9.399,-72.795 71.045,-11.149 50.497,9.399 29.948,29.948 Z" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(194, 194, 194);" id="path106"/>
+      </g>
+      <g id="g108" transform="translate(595.2869,399.7581)">
+        <path d="M 0,0 20.548,-20.548 -5.364,-46.461 -40.678,-11.149 15.184,44.712 29.947,29.948 Z M 71.045,-11.149 15.184,-67.01 0.42,-52.246 32.118,-20.548 11.569,0 35.732,24.163 Z m -123.292,0 41.098,-41.097 5.785,-5.785 20.548,-20.549 67.43,67.431 -41.097,41.097 -5.785,5.784 -20.548,20.549 z" style="fill: rgb(71, 68, 75); fill-opacity: 1; fill-rule: nonzero; stroke: none;" id="path110"/>
+      </g>
+    </g>
+  </g>
+</svg>
