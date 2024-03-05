@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tech, Trends und Trivia</title>
+    <link>https://svenroesser.de/pages/</link>
+    <description>Recent content in Pages on Tech, Trends und Trivia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>hi@svenroesser.de (Sven Rösser)</managingEditor>
+    <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster>
+    <lastBuildDate>Tue, 05 Mar 2024 20:21:53 +0100</lastBuildDate>
+    <atom:link href="https://svenroesser.de/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>https://svenroesser.de/pages/impressum/</link>
+      <pubDate>Tue, 05 Mar 2024 20:21:53 +0100</pubDate><author>hi@svenroesser.de (Sven Rösser)</author>
+      <guid>https://svenroesser.de/pages/impressum/</guid>
+      <description>Angaben gemäß § 5 TMG Sven Rösser&#xA;Kaffweg 28&#xA;35039 Marburg&#xA;Kontakt Telefon: 064213046482 E-Mail: hi@svenroesser.de&#xA;Quelle: e-recht24.de</description>
+    </item>
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://svenroesser.de/pages/privacy_policy/</link>
+      <pubDate>Thu, 16 Nov 2023 11:37:53 +0200</pubDate><author>hi@svenroesser.de (Sven Rösser)</author>
+      <guid>https://svenroesser.de/pages/privacy_policy/</guid>
+      <description>Inhaltsübersicht Verantwortlicher Übersicht der Verarbeitungen Maßgebliche Rechtsgrundlagen Sicherheitsmaßnahmen Übermittlung von personenbezogenen Daten Internationale Datentransfers Rechte der betroffenen Personen Bereitstellung des Onlineangebotes und Webhosting Verantwortlicher Sven Rösser Kaffweg 28 35039 Marburg&#xA;E-Mail-Adresse: hi@svenroesser.de&#xA;Übersicht der Verarbeitungen Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.&#xA;Arten der verarbeiteten Daten Kontaktdaten. Inhaltsdaten. Nutzungsdaten. Meta-, Kommunikations- und Verfahrensdaten. Kategorien betroffener Personen Kommunikationspartner.</description>
+    </item>
+  </channel>
+</rss>

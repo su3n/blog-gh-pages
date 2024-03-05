@@ -2,6 +2,18 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://svenroesser.de/pages/impressum/</loc><lastmod>2024-03-05T20:21:53&#43;01:00</lastmod></url><url>
+            <loc>https://svenroesser.de/pages/</loc><lastmod>2024-03-05T20:21:53&#43;01:00</lastmod></url><url>
+            <loc>https://svenroesser.de/</loc><lastmod>2024-03-05T20:21:53&#43;01:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://svenroesser.de/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://svenroesser.de/"
+                    /></url><url>
+            <loc>https://svenroesser.de/pages/privacy_policy/</loc><lastmod>2023-11-16T11:37:53&#43;02:00</lastmod></url><url>
             <loc>https://svenroesser.de/posts/hello_world/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -40,13 +52,4 @@
                     rel="alternate"
                     hreflang="de"
                     href="https://svenroesser.de/tags/"
-                    /></url><url>
-            <loc>https://svenroesser.de/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://svenroesser.de/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://svenroesser.de/"
                     /></url></urlset>
