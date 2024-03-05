@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Kategorie - Tech, Trends und Trivia</title>
-        <link>http://example.org/categories/</link>
+        <link>https://su3n.github.io/blog-gh-pages/categories/</link>
         <description>Categories - Kategorie - Tech, Trends und Trivia</description>
         <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>hi@svenroesser.de (Sven Rösser)</managingEditor>
-            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="https://su3n.github.io/blog-gh-pages/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Persönlicher Blog</title>
-    <link>http://example.org/categories/pers%C3%B6nlicher-blog/</link>
+    <link>https://su3n.github.io/blog-gh-pages/categories/pers%C3%B6nlicher-blog/</link>
     <pubDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</pubDate>
     <author>Sven Rösser</author>
-    <guid>http://example.org/categories/pers%C3%B6nlicher-blog/</guid>
+    <guid>https://su3n.github.io/blog-gh-pages/categories/pers%C3%B6nlicher-blog/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

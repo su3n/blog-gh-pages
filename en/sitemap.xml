@@ -2,51 +2,51 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/en/posts/hello_world/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
+            <loc>https://su3n.github.io/blog-gh-pages/en/posts/hello_world/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="de"
-                        href="http://example.org/posts/hello_world/"
+                        href="https://su3n.github.io/blog-gh-pages/posts/hello_world/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/posts/hello_world/"
+                    href="https://su3n.github.io/blog-gh-pages/en/posts/hello_world/"
                     /></url><url>
-            <loc>http://example.org/en/categories/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
+            <loc>https://su3n.github.io/blog-gh-pages/en/categories/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="de"
-                        href="http://example.org/categories/"
+                        href="https://su3n.github.io/blog-gh-pages/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/categories/"
+                    href="https://su3n.github.io/blog-gh-pages/en/categories/"
                     /></url><url>
-            <loc>http://example.org/en/tags/opinion/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/en/tags/personal/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/en/categories/personal-blog/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/en/posts/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
+            <loc>https://su3n.github.io/blog-gh-pages/en/tags/opinion/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod></url><url>
+            <loc>https://su3n.github.io/blog-gh-pages/en/tags/personal/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod></url><url>
+            <loc>https://su3n.github.io/blog-gh-pages/en/categories/personal-blog/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod></url><url>
+            <loc>https://su3n.github.io/blog-gh-pages/en/posts/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="de"
-                        href="http://example.org/posts/"
+                        href="https://su3n.github.io/blog-gh-pages/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/posts/"
+                    href="https://su3n.github.io/blog-gh-pages/en/posts/"
                     /></url><url>
-            <loc>http://example.org/en/tags/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
+            <loc>https://su3n.github.io/blog-gh-pages/en/tags/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="de"
-                        href="http://example.org/tags/"
+                        href="https://su3n.github.io/blog-gh-pages/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/"
+                    href="https://su3n.github.io/blog-gh-pages/en/tags/"
                     /></url><url>
-            <loc>http://example.org/en/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
+            <loc>https://su3n.github.io/blog-gh-pages/en/</loc><lastmod>2023-10-01T11:37:53&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="de"
-                        href="http://example.org/"
+                        href="https://su3n.github.io/blog-gh-pages/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/"
+                    href="https://su3n.github.io/blog-gh-pages/en/"
                     /></url></urlset>
