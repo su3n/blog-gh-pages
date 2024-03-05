@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Tech, Trends and Trivia</title>
-        <link>https://su3n.github.io/blog-gh-pages/en/tags/</link>
+        <link>https://svenroesser.de/en/tags/</link>
         <description>Tags - Tag - Tech, Trends and Trivia</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@svenroesser.de (Sven Rösser)</managingEditor>
-            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="https://su3n.github.io/blog-gh-pages/en/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="https://svenroesser.de/en/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Opinion</title>
-    <link>https://su3n.github.io/blog-gh-pages/en/tags/opinion/</link>
+    <link>https://svenroesser.de/en/tags/opinion/</link>
     <pubDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</pubDate>
     <author>Sven Rösser</author>
-    <guid>https://su3n.github.io/blog-gh-pages/en/tags/opinion/</guid>
+    <guid>https://svenroesser.de/en/tags/opinion/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Personal</title>
-    <link>https://su3n.github.io/blog-gh-pages/en/tags/personal/</link>
+    <link>https://svenroesser.de/en/tags/personal/</link>
     <pubDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</pubDate>
     <author>Sven Rösser</author>
-    <guid>https://su3n.github.io/blog-gh-pages/en/tags/personal/</guid>
+    <guid>https://svenroesser.de/en/tags/personal/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

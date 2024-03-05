@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Persönlich - Tag - Tech, Trends und Trivia</title>
-        <link>https://su3n.github.io/blog-gh-pages/tags/pers%C3%B6nlich/</link>
+        <link>https://svenroesser.de/tags/pers%C3%B6nlich/</link>
         <description>Persönlich - Tag - Tech, Trends und Trivia</description>
         <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>hi@svenroesser.de (Sven Rösser)</managingEditor>
-            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="https://su3n.github.io/blog-gh-pages/tags/pers%C3%B6nlich/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hi@svenroesser.de (Sven Rösser)</webMaster><lastBuildDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</lastBuildDate><atom:link href="https://svenroesser.de/tags/pers%C3%B6nlich/" rel="self" type="application/rss+xml" /><item>
     <title>:earth_asia: Hello World! Aufbruch in die Blogosphäre</title>
-    <link>https://su3n.github.io/blog-gh-pages/posts/hello_world/</link>
+    <link>https://svenroesser.de/posts/hello_world/</link>
     <pubDate>Sun, 01 Oct 2023 11:37:53 &#43;0200</pubDate>
     <author>Sven Rösser</author>
-    <guid>https://su3n.github.io/blog-gh-pages/posts/hello_world/</guid>
+    <guid>https://svenroesser.de/posts/hello_world/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/blog-gh-pages/img/banner/hello_world_de.png" referrerpolicy="no-referrer">
             </div>WTF - Ein Blog? Die digitale (Unterhaltungs)welt ist heutzutage randvoll mit aufregendem Content. Angesichts dieser Tatsache mag es zunächst ungewöhnlich erscheinen, einen eigenen Blog zu starten. Im Internet stolpert man zwangsläufig über TikTok-Challenges, virale Kurzvideos und komplexe Algorithmen, die einem nur das anzeigen, was den persönlichen Vorlieben und Meinungen entspricht. Ihr Ziel ist klar definiert: Maximierung der Nutzungszeit und Bindung der Nutzer durch clevere Strategien und psychologische Kniffe, um die Einnahmen zu maximieren.]]></description>
